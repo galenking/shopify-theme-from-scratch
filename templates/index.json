@@ -1,7 +1,12 @@
 {
   "sections": {
+    "text": {
+      "type": "text",
+      "settings": {
+      }
+    }
   },
   "order": [
-
+    "text"
   ]
 }
